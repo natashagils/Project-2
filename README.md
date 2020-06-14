@@ -1,6 +1,6 @@
-# project-2
+# Project 2 
 
-Pharmaproject by DDNND
+Pharma Project by DDNND
 ==========================
 File:
 'https://github.com/dasloinc/project-2'
