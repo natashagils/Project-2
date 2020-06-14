@@ -10,6 +10,10 @@ This app runs in the browser and features dynamically updated HTML and CSS power
 
 In this project we used one API to retrieve drug information from the FDA website 
  - API that connects to https://open.fda.gov/apis/.
+ 
+ 
+ <img width="1375" alt="Screen Shot 2020-06-14 at 1 46 17 PM" src="https://user-images.githubusercontent.com/56641651/84600159-6d6c1e00-ae45-11ea-978b-f5008ae38ca2.png">
+
 
 Initial Page:
 The webpage consists of four different pages: "Home Page", "Profile", "Store", and "Check out". All features are dynamic, link to the MSQL & fully operational.
